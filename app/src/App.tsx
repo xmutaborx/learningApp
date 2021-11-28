@@ -3,9 +3,9 @@ import { PlanetsContainer as Planets} from './containers/planet.container';
 
 export const App = () => {
     return (
-        <>
+        <section>
             <Planets />
-        </>
+        </section>
     )
 };
 
